@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T12:28:38.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ik_2Vg0jodIcsZFXpFGK" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T12:56:16.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TdDr8Wr2gvjYGJxSa7JZ" version="20.8.13" type="github">
   <diagram id="UFWvNTuP6jyYWMxc7BgN" name="第 1 页">
-    <mxGraphModel dx="7274" dy="1468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6630" dy="1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2143,6 +2143,21 @@
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-17" value="小仓模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4805" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1d3jWinqms75qIONGKV-24" value="模块配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4801" y="772" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1d3jWinqms75qIONGKV-25" value="Client文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4681.5" y="772" width="112.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1d3jWinqms75qIONGKV-26" value="PreImpl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4562" y="772" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1d3jWinqms75qIONGKV-27" value="PostImpl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4443" y="772" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1d3jWinqms75qIONGKV-29" value="业务配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4801" y="708" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

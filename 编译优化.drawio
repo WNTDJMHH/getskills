@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T06:44:36.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t2QG6We-CyAVIPVaH8wC" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T07:02:48.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xHX2FPG7MkZ-l0Wf7II-" version="20.8.13" type="github">
   <diagram id="UFWvNTuP6jyYWMxc7BgN" name="第 1 页">
     <mxGraphModel dx="7659" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2545,7 +2545,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-153" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;业务2&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-153" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;子业务2&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5763" y="1342" width="366" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-157" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;ServiceImpl类&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(子业务逻辑混合)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -2637,10 +2637,10 @@
         <mxCell id="Y1d3jWinqms75qIONGKV-188" value="逻辑块拷贝&lt;br&gt;(大IF_ELSE)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="-5542" y="1267.3785982038264" width="120" height="35.617063647012884" as="geometry" />
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-189" value="&lt;font color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Proto协议(子业务协议混合)&lt;/font&gt;&lt;br&gt;业务/业务2/业务n/RPC声明&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-189" value="&lt;font color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Proto协议(子业务协议混合)&lt;/font&gt;&lt;br&gt;子业务/子业务2/RPC声明&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-5880" y="1462" width="688" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-162" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;业务1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-162" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;子业务1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5703.5" y="1088" width="60" height="31.68" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-163" value="接口a&lt;br&gt;(Impl成员函数)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
@@ -2670,10 +2670,10 @@
         <mxCell id="Y1d3jWinqms75qIONGKV-253" value="模块层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-5871" y="2001.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-247" value="业务A 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-247" value="子业务A 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-5794" y="1906" width="108" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-248" value="业务B 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-248" value="子业务B 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-5676" y="1906" width="107" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-250" value="Proto协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
@@ -2709,7 +2709,7 @@
           <mxGeometry width="149" height="194" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-275" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Y1d3jWinqms75qIONGKV-281">
-          <mxGeometry x="14.5" y="48.730000000000004" width="120" height="26.5" as="geometry" />
+          <mxGeometry x="14" y="92" width="120" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-276" value="子逻辑1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="Y1d3jWinqms75qIONGKV-281">
           <mxGeometry x="14.5" y="124" width="120" height="26.38" as="geometry" />
@@ -2721,7 +2721,7 @@
           <mxGeometry x="31" y="18.495384615384637" width="86" height="30.23076923076923" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-303" value="主调度逻辑&lt;br&gt;Process/Pre/Post" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="Y1d3jWinqms75qIONGKV-281">
-          <mxGeometry x="14" y="82.19" width="120" height="37.81" as="geometry" />
+          <mxGeometry x="14" y="48.73" width="120" height="37.81" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-285" value="子业务B文件夹" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-5609" y="1650.5" width="105" height="30" as="geometry" />

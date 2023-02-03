@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T04:06:33.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lf3U8MPwSXVzTZFdp_V6" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T04:57:14.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5dTnWXbUHHzjJ-Qa85-o" version="20.8.13" type="github">
   <diagram id="UFWvNTuP6jyYWMxc7BgN" name="第 1 页">
     <mxGraphModel dx="7659" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2663,16 +2663,16 @@
         <mxCell id="Y1d3jWinqms75qIONGKV-213" value="PostImpl类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-5558" y="1969" width="88" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-235" value="ServiceImpl类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-235" value="ServiceImpl类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="-5794.5" y="1969" width="108.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-253" value="模块层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-5871" y="1992.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-247" value="业务A 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-247" value="业务A 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-5794" y="1906" width="108" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Y1d3jWinqms75qIONGKV-248" value="业务B 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Y1d3jWinqms75qIONGKV-248" value="业务B 协议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-5676" y="1906" width="107" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Y1d3jWinqms75qIONGKV-250" value="协议层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T15:57:03.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9RiNpVsuRjbK73qxWH_s" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T16:16:38.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vDMCmalw9AA6Gvv-I7ad" version="20.8.8" type="github">
   <diagram id="UFWvNTuP6jyYWMxc7BgN" name="第 1 页">
-    <mxGraphModel dx="9257" dy="1206" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8995" dy="1038" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1496,7 +1496,7 @@
             <mxPoint x="-2430" y="1544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E8HUrqJmNqaqg7zv2nh-115" value="&lt;b&gt;预处理(1-10min)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7E8HUrqJmNqaqg7zv2nh-114" vertex="1" connectable="0">
+        <mxCell id="7E8HUrqJmNqaqg7zv2nh-115" value="&lt;b&gt;预处理(1-10min)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#f20202;" parent="7E8HUrqJmNqaqg7zv2nh-114" vertex="1" connectable="0">
           <mxGeometry x="-0.8483" y="1" relative="1" as="geometry">
             <mxPoint y="-42" as="offset" />
           </mxGeometry>
@@ -1513,10 +1513,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7E8HUrqJmNqaqg7zv2nh-118" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2355" y="1625" width="80" height="109" as="geometry" />
+          <mxGeometry x="-2355" y="1625" width="89" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="7E8HUrqJmNqaqg7zv2nh-119" value="" style="group" parent="7E8HUrqJmNqaqg7zv2nh-118" vertex="1" connectable="0">
-          <mxGeometry width="80" height="109" as="geometry" />
+          <mxGeometry width="89" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="7E8HUrqJmNqaqg7zv2nh-120" value="" style="endArrow=none;html=1;rounded=0;endSize=7;strokeWidth=2;" parent="7E8HUrqJmNqaqg7zv2nh-119" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1530,7 +1530,7 @@
             <mxPoint x="40" y="79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E8HUrqJmNqaqg7zv2nh-122" value="&lt;b&gt;编译汇编(1-40min)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7E8HUrqJmNqaqg7zv2nh-121" vertex="1" connectable="0">
+        <mxCell id="7E8HUrqJmNqaqg7zv2nh-122" value="&lt;b&gt;编译汇编(1-40min)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0019;" parent="7E8HUrqJmNqaqg7zv2nh-121" vertex="1" connectable="0">
           <mxGeometry x="-0.8483" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="44" as="offset" />
           </mxGeometry>
@@ -1545,6 +1545,9 @@
           <mxGeometry x="0.749" y="1" relative="1" as="geometry">
             <mxPoint x="23" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-60" value="3. 文件真正编译时长" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="7E8HUrqJmNqaqg7zv2nh-119">
+          <mxGeometry x="-3" y="92" width="92" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="7E8HUrqJmNqaqg7zv2nh-125" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;endSize=7;strokeColor=default;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3001,7 +3004,7 @@
             <mxPoint x="-2560" y="1736" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7E8HUrqJmNqaqg7zv2nh-110" value="&lt;b&gt;计算重编范围(1-20s)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7E8HUrqJmNqaqg7zv2nh-109" vertex="1" connectable="0">
+        <mxCell id="7E8HUrqJmNqaqg7zv2nh-110" value="&lt;span&gt;计算重编范围(1-20s)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#fd0808;" parent="7E8HUrqJmNqaqg7zv2nh-109" vertex="1" connectable="0">
           <mxGeometry x="-0.8483" y="1" relative="1" as="geometry">
             <mxPoint y="42" as="offset" />
           </mxGeometry>
@@ -3246,6 +3249,12 @@
             <mxPoint x="-6998" y="996" as="sourcePoint" />
             <mxPoint x="-6916" y="996" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-57" value="1. 决定编译任务的轻重" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2666" y="1686.5" width="92" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-59" value="2. 决定文件编译开始时间" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2529" y="1587.5" width="92" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

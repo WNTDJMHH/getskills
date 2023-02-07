@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T06:08:39.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="p3jhkM6331zNrG7pUZSB" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T15:57:03.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9RiNpVsuRjbK73qxWH_s" version="20.8.8" type="github">
   <diagram id="UFWvNTuP6jyYWMxc7BgN" name="第 1 页">
     <mxGraphModel dx="9257" dy="1206" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VN9CMbAasudJfG6iaHjE-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#fa0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-7174" y="749" width="363" height="247" as="geometry" />
+        </mxCell>
         <mxCell id="7EGRMzQ83MrLN26R4Qc3-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-6719" y="3011" width="490" height="609" as="geometry" />
         </mxCell>
@@ -3218,6 +3221,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2250" y="1803" as="sourcePoint" />
             <mxPoint x="-2204" y="1762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-47" value="# include &quot;wwadminsvrclient.h&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-7057" y="786" width="207" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-48" value="&amp;nbsp; &amp;nbsp;cc_library{&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;name = &quot;wwadminsvrclient&quot;,&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#f70202&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;include =[.]&lt;/font&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;}&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-7055" y="886" width="206" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-49" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;svr.cpp&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#f70202;" vertex="1" parent="1">
+          <mxGeometry x="-7134" y="809" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-50" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;wwadmin BUILD&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#f70202;" vertex="1" parent="1">
+          <mxGeometry x="-7133.5" y="912" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-52" value="gcc&lt;font color=&quot;#fa0000&quot;&gt; -I wework/wwadmin&lt;/font&gt; svr.cpp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-7103" y="1054" width="214" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-53" value="&lt;b&gt;编译命令&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-7167" y="1072" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VN9CMbAasudJfG6iaHjE-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#fa0000;fillColor=default;" edge="1" parent="1" target="VN9CMbAasudJfG6iaHjE-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-6998" y="996" as="sourcePoint" />
+            <mxPoint x="-6916" y="996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

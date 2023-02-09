@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T08:02:34.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FGNpVmxHaebBSycqqH7w" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T08:07:01.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9zaPpi8sA6vTDyr-zAuo" version="20.8.18" type="github">
   <diagram id="UFWvNTuP6jyYWMxc7BgN" name="第 1 页">
     <mxGraphModel dx="10147" dy="1125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3725,6 +3725,15 @@
           <mxGeometry width="109" height="39" as="geometry">
             <mxRectangle width="109" height="39" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-EINA12B3DB9pgYtZH0E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#080808;" edge="1" parent="1" source="-EINA12B3DB9pgYtZH0E-22" target="-EINA12B3DB9pgYtZH0E-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-EINA12B3DB9pgYtZH0E-22" value="分发中心1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#080808;" vertex="1" parent="1">
+          <mxGeometry x="-8088" y="52" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-EINA12B3DB9pgYtZH0E-23" value="分发中心2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#080808;" vertex="1" parent="1">
+          <mxGeometry x="-8084.5" y="135" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

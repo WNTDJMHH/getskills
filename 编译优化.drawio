@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T10:53:57.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="S2tu-CZvqR9gnf5wujtR" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T11:25:10.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zwFWMqgl3A40wwlos8Ef" version="20.8.20" type="github">
   <diagram id="UFWvNTuP6jyYWMxc7BgN" name="第 1 页">
-    <mxGraphModel dx="12758" dy="2068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11523" dy="1404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10023" y="2892" width="287" height="244" as="geometry" />
+        </mxCell>
         <mxCell id="-EINA12B3DB9pgYtZH0E-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#080808;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-8099" y="45" width="110" height="181" as="geometry" />
         </mxCell>
@@ -4185,6 +4188,42 @@
         </mxCell>
         <mxCell id="SJYfrPs_iMVWTNLgPsJW-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="SJYfrPs_iMVWTNLgPsJW-110" target="SJYfrPs_iMVWTNLgPsJW-116">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-120" value="任务驱动器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10261" y="2668" width="129" height="466" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="SJYfrPs_iMVWTNLgPsJW-121" target="SJYfrPs_iMVWTNLgPsJW-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-121" value="事件&lt;br&gt;任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10105" y="2668" width="65" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-122" value="结果&lt;br&gt;任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10106" y="2895" width="67" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-123" value="事件&lt;br&gt;扫表器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10023" y="2665" width="91" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-124" value="计算方法1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9747" y="2665" width="131" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-125" value="企业事件处理器&lt;br&gt;&lt;br&gt;(调度计算方法，&lt;br&gt;存储中间结果，&lt;br&gt;订阅企业任务，&lt;br&gt;写入历史排重表)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9922" y="2665" width="171" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-126" value="计算方法2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9747" y="2752" width="131" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-129" value="日维度计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9922" y="2904" width="172" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-130" value="周维度计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9923" y="2975" width="172" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-131" value="月维度计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9923" y="3046" width="172" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="SJYfrPs_iMVWTNLgPsJW-132" value="企业结果处理器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10016" y="2981" width="93" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
